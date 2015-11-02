@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="com.basho.riak:riak-client:2.0.2" type="repository">
+    <properties maven-id="com.basho.riak:riak-client:2.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/riak-client-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-joda-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.0.17.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
